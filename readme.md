@@ -16,7 +16,8 @@ A pure CSS, HTML, and JS only based website for a creative agency.
 
 ### Versions
 
--   1.0.0 (latest)
+-   1.0.1 (latest)
+-   1.0.0
 
 ### Authors
 
